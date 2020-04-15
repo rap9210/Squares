@@ -1,0 +1,5 @@
+Squares:
+1. Get and input from user.
+2. Initialize interation variable.
+3. Construct For loop with start, end, and iteration 
+and print statements.
